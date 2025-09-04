@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewData["Title"] = "Brand";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container-fluid">
+    <div class="row" style="    text-align: right;
+    display: block;">
+        <a href="/Category/brandList" class="btn btn-info"> Brand List </a>
+    </div>
+    <form asp-action="saveBrand" method="post" enctype="multipart/form-data">
+        <div class="row">
+            <div class="col-md-5">
+                <div class="form-group">
+                    <label>Brand Name</label>
+                    <input type="text" name="name" required class="form-control" />
+                </div>
+            </div>
+        </div>
+        <div class="col-md-12" style=" padding: 10px;
+        text-align: center;">
+            <input type="submit" class="btn btn-primary" />
+        </div>
+    </form>
+
+</div>
+

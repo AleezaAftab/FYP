@@ -1,0 +1,32 @@
+﻿
+@{
+    Layout = null;
+}
+
+    <div class="f-contact">
+        <h5>Contact Info</h5>
+        <div class="f-add">
+            <i class="fa fa-map-marker"></i>
+            <span>Address :</span>
+            <p>@ViewBag.address.addr</p>
+        </div>
+        <div class="f-email">
+            <i class="fa fa-envelope"></i>
+            <span>Email :</span>
+            <p>@ViewBag.address.email</p>
+        </div>
+        <div class="f-phn">
+            <i class="fa fa-phone"></i>
+            <span>Phone :</span>
+            <p>@ViewBag.address.phone</p>
+        </div>
+        <div class="f-social">
+            <ul class="list-unstyled list-inline">
+                <li class="list-inline-item"><a href="@ViewBag.social.facebook"><i class="fa fa-facebook"></i></a></li>
+                <li class="list-inline-item"><a href="@ViewBag.social.twitter"><i class="fa fa-twitter"></i></a></li>
+                <li class="list-inline-item"><a href="@ViewBag.social.linkdin"><i class="fa fa-linkedin"></i></a></li>
+                <li class="list-inline-item"><a href="@ViewBag.social.google"><i class="fa fa-google-plus"></i></a></li>
+                <li class="list-inline-item"><a href="@ViewBag.social.pinterest"><i class="fa fa-pinterest"></i></a></li>
+            </ul>
+        </div>
+    </div>

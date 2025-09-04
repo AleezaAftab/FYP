@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "PayPal Checkout";
+}
+
+<h2>Pay with PayPal</h2>
+<div id="paypal-button-container"></div>
+
+<!-- ✅ Use Sandbox URL for testing -->
+<script src="https://www.paypal.com/sdk/js?client-id=@ViewBag.PayPalClientId&currency=USD&intent=capture"></script>
+
+<script>
+    paypal.Buttons({
+        createOrder: function (data, actions) {
+            return actions.order.create({
+                purchase_units: [{
+                    amount: {
+                        value: '97' // Your test value
+                    }
+                }]
+            });
+        },
+        onApprove: function (data, actions) {
+            return actions.order.capture().then(function (details) {
+                // Notify your backend (optional)
+                fetch('/CheckOut/ExecutePayPalPayment', {
+                    method: 'POST'
+                }).then(() => {
+                    window.location.href = '/CheckOut/OrderCompleted';
+                });
+            });
+        }
+    }).render('#paypal-button-container');
+</script>

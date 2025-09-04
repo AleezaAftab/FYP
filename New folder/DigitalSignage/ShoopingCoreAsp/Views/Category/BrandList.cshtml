@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewData["Title"] = "BrandList";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="container-fluid">
+
+    <table id="example" class="table table-striped table-bordered" style="width:100%">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.brandList)
+            {
+                <tr>
+                    <td>@item.name</td>
+                    <td>
+                        <a href="/Category/findBrand/@item.id" class="btn btn-primary btn-sm">Edit</a>
+                        <a href="/Category/deleteBrand/@item.id" class="btn btn-danger btn-sm">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <th>Name</th>
+                <th>Action</th>
+            </tr>
+        </tfoot>
+    </table>
+</div>
+
+

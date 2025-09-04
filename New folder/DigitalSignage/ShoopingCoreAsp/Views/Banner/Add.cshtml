@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewData["Title"] = "Add Slider";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="container-fluid">
+    <div class="row" style="    text-align: right;
+    display: block;">
+        <a href="/Banner/List" class="btn btn-info">Banners List</a>
+    </div>
+    <form asp-action="uploadImage" method="post" enctype="multipart/form-data">
+        <div class="row">
+            <div class="col-md-5">
+                <div class="form-group">
+                    <label>Select Banner Image</label>
+                    <input class="form-control" type="file" required name="file" />
+                </div>
+            </div>
+        </div>
+        <div class="col-md-12" style=" padding: 10px;
+        text-align: center;
+">
+            <input type="submit" class="btn btn-primary" />
+        </div>
+    </form>
+</div>
+

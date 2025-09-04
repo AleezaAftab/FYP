@@ -1,0 +1,462 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js" />
+
+<script>
+    function myFunction(id) {
+        $.ajax({
+            /* the route pointing to the post function */
+            url: '/Home/saveWishList/' + id,
+            type: 'GET',
+            /* send the csrf-token and the input to the controller */
+            data: {},
+            /* remind that 'data' is the response of the AjaxController */
+            success: function (data) {
+                alert(data);
+            }
+        });
+    }
+</script>
+
+
+
+<style>
+    #overlay {
+        position: fixed; /* Sit on top of the page content */
+        display: none; /* Hidden by default */
+        width: 100%; /* Full width (cover the whole page) */
+        height: 100%; /* Full height (cover the whole page) */
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(0,0,0,0.5); /* Black background with opacity */
+        z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+        cursor: pointer; /* Add a pointer on hover */
+        pointer-events: none;
+    }
+
+    .modal-dialog {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    .modal-content {
+        height: auto;
+        min-height: 100%;
+        border-radius: 0;
+    }
+</style>
+@if (ViewBag.splash != null)
+{
+
+    <script>
+
+        window.onload = function () {
+            $("#myModal").modal('show');
+
+        };
+
+    </script>
+}
+@if (ViewBag.splash != null)
+{
+    <div id="myModal" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Promotion</h5>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                <div class="modal-body" style="background-size:contain ;background-image:url('/@ViewBag.splash.image')">
+
+                </div>
+            </div>
+        </div>
+    </div>
+}
+    <section class="slider-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-0">
+                    <div class="menu-widget">
+                        <p><i class="fa fa-bars"></i>All Categories</p>
+                        <ul class="list-unstyled">
+
+                            @foreach (var item in ViewBag.category)
+                            {
+                                <li>
+                                    <a href="/Home/SubCategories/@item.id"><img src="/@item.image" style="height:16px;width:16px;" alt="">@item.name<i class="fa fa-angle-right"></i></a>
+                                </li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-9 col-md-12 padding-fix-l20">
+                    <div class="owl-carousel owl-slider">
+                        @foreach (var item in ViewBag.banners)
+                        {
+                            <div class="slider-item slider-item1">
+                                <img src="/@item.image" alt="" style="width: 100%;max-width: 100%;"
+                                     class="img1 wow fadeInRight effect" data-wow-duration="1s" data-wow-delay="0s">
+                            </div>
+                        }
+                    </div>
+                    <div class="slider-btm-box d-flex justify-content-around">
+                        <div class="single-box mr-20">
+                            <a href="/Home/SubCategories/17"><img src="assets/images/sb-1.png" alt="" class="img-fluid"></a>
+                        </div>
+                        <div class="single-box mr-20">
+                            <a href="/Home/SubCategories/16"><img src="assets/images/sb-2.png" alt="" class="img-fluid"></a>
+                        </div>
+                        <div class="single-box">
+                            <a href="/Home/SubCategories/20"><img src="assets/images/sb3.png" alt="" class="img-fluid"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Slider Area -->
+    <!-- Product Area-->
+    <section class="product-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-4">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="bt-deal">
+                                <div class="sec-title">
+                                    <h6>Best Deals</h6>
+                                </div>
+                                <div class="bt-body owl-carousel">
+                                    <div class="bt-items">
+
+                                        @foreach (var item in ViewBag.bestPro)
+                                        {
+                                            <div class="bt-box d-flex">
+                                                <div class="bt-img">
+                                                    <a href="/Home/ProductDetails/@item.id"><img src="/@item.product_image" alt=""></a>
+                                                </div>
+                                                <div class="bt-content">
+                                                    <p><a href="/Home/ProductDetails/@item.id">@item.product_name</a></p>
+                                                    <ul class="list-unstyled list-inline price">
+                                                        <li class="list-inline-item" style="text-decoration:none;font-weight:600;color:black;">Rs @item.product_price
+                                                        <li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        }
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12" style="margin-top: 40px">
+                            <div class="ht-offer">
+                                <div class="sec-title">
+                                    <h6>Hot Offer</h6>
+                                </div>
+                                <div class="ht-body owl-carousel">
+                                    @foreach (var item in ViewBag.hotPro)
+                                    {
+                                        <div class="ht-item">
+                                            <div class="ht-img">
+                                                <a href="/Home/ProductDetails/@item.id"><img src="/@item.product_image" alt="" class="img-fluid"></a>
+                                            </div>
+                                            <div class="ht-content">
+                                                <p><a href="/Home/ProductDetails/@item.id">@item.product_name</a></p>
+                                                <ul class="list-unstyled list-inline price">
+                                                    <li class="list-inline-item" style="text-decoration:none;font-weight:600;color:black;">Rs @item.product_price
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    }
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12"></div>
+                    </div>
+                </div>
+                <div class="col-lg-9 col-md-8">
+                    <div class="row">
+                        <div class="col-md-12 padding-fix-l20">
+                            <div class="ftr-product">
+                                <div class="tab-box d-flex justify-content-between">
+                                    <div class="sec-title">
+                                        <h5>Best Product</h5>
+                                    </div>
+                                    <!-- Nav tabs -->
+                                </div>
+                                <!-- Tab panes -->
+                                <div class="tab-content">
+                                    <div class="tab-pane fade show active" id="all" role="tabpanel">
+                                        <div class="tab-slider owl-carousel">
+                                            @foreach (var item in ViewBag.bestPro)
+                                            {
+                                                <div class="tab-item">
+                                                    <div class="tab-heading">
+                                                        <p><a href="/Home/ProductDetails/@item.id">@item.product_name</a></p>
+                                                    </div>
+                                                    <div class="tab-img">
+                                                        <a href="/Home/ProductDetails/@item.id">
+                                                            <img class="main-img img-fluid" src="/@item.product_image" alt="">
+                                                        </a>
+                                                            <div class="layer-box">
+
+                                                                <a href="/Home/compareProduct?category_id=@item.cate_id&price=@item.product_price"
+                                                                   class="it-comp" data-toggle="tooltip" data-placement="left"
+                                                                   title="" data-original-title="Compare"><img src="~/assets/images/it-comp.png" alt=""></a>
+
+                                                                <a href="javascript:void(0)"
+                                                                   onclick="myFunction(@item.id)"
+                                                                   class="it-fav" data-toggle="tooltip" data-placement="left"
+                                                                   title="Whish List"><img src="~/assets/images/it-fav.png" alt=""></a>
+
+
+                                                                <script type="text/javascript">
+                                                                    function myFunction(id) {
+                                                                        //  document.getElementById('cardcount').innerHTML = "100";
+                                                                        $.ajax({
+                                                                            /* the route pointing to the post function */
+                                                                            url: '/Home/saveWishList?product_id=' + id,
+                                                                            type: 'GET',
+                                                                            /* send the csrf-token and the input to the controller */
+                                                                            data: {},
+                                                                            /* remind that 'data' is the response of the AjaxController */
+                                                                            success: function (data) {
+                                                                                Swal.fire({
+                                                                                    title: 'Success!',
+                                                                                    text: 'Product added into wish list',
+                                                                                    icon: 'success',
+
+                                                                                })
+
+                                                                            }
+                                                                        });
+                                                                    }
+                                                                </script>
+                                                            </div>
+                                                    </div>
+                                                    <div class="img-content d-flex justify-content-between">
+                                                        <div>
+                                                            <ul class="list-unstyled list-inline price">
+                                                                <li class="list-inline-item" style="    text-decoration: none;">Rs @item.product_price</li>
+                                                            </ul>
+                                                        </div>
+                                                        <div>
+                                                            @{
+
+                                                                var enable1 = false;
+                                                                if (item.product_quantity > 0)
+                                                                {
+                                                                    enable1 = true;
+                                                                }
+
+                                                            }
+
+                                                            @if (enable1)
+                                                            {
+                                                                <a href="javascript:void(0)"
+                                                                   onclick="addTocard(@item.id)" data-toggle="tooltip" data-placement="top" title="Add to Cart"><img src="~/assets/images/it-cart.png" alt=""></a>
+
+                                                            }
+                                                            else
+                                                            {
+                                                                <a href="#"
+                                                                   data-toggle="tooltip" data-placement="top" title="Stock Out">
+                                                                    <img src="~/assets/images/it-cart.png" alt="">
+                                                                </a>
+
+                                                            }
+
+                                                            <script type="text/javascript">
+                                                                function addTocard(id) {
+
+                                                                    $.ajax({
+                                                                        /* the route pointing to the post function */
+                                                                        url: '/Home/AddtoCart?product_id=' + id,
+                                                                        type: 'GET',
+                                                                        /* send the csrf-token and the input to the controller */
+                                                                        data: {},
+                                                                        /* remind that 'data' is the response of the AjaxController */
+                                                                        success: function (data) {
+                                                                            if (data == 200) {
+                                                                                var cardcount = document.getElementById('cardcount');
+                                                                                var count = parseInt(cardcount.innerHTML) + 1;
+                                                                                cardcount.innerHTML = count.toString();
+
+                                                                                Swal.fire({
+                                                                                    title: 'Success!',
+                                                                                    text: 'Product added into cart',
+                                                                                    icon: 'success',
+                                                                                })
+                                                                            } else if (data == 203) {
+                                                                                Swal.fire({
+                                                                                    title: 'Error!',
+                                                                                    text: 'Quantity not available',
+                                                                                    icon: 'error',
+                                                                                })
+                                                                            } else if (data == 202) {
+                                                                                Swal.fire({
+                                                                                    title: 'Success!',
+                                                                                    text: 'Already Added',
+                                                                                    icon: 'success',
+                                                                                })
+                                                                            }
+
+                                                                        }
+                                                                    });
+                                                                }
+                                                            </script>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            }
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12 padding-fix-l20">
+                            <div class="new-product">
+                                <div class="sec-title">
+                                    <h5> Hot Product</h5>
+                                </div>
+                                <div class="new-slider owl-carousel">
+                                    @foreach (var item in ViewBag.hotPro)
+                                    {
+                                        <div class="new-item">
+                                            <div class="tab-heading">
+                                                <p><a href="/Home/ProductDetails/@item.id">@item.product_name</a></p>
+                                            </div>
+                                            <div class="new-img">
+                                                <a href="/Home/ProductDetails/@item.id">
+                                                    <img class="main-img img-fluid" src="/@item.product_image" alt="">
+                                                </a>
+                                                    <div class="layer-box">
+                                                        <a href="/Home/compareProduct?category_id=@item.cate_id&price=@item.product_price" class="it-comp"
+                                                           data-toggle="tooltip" data-placement="left"
+                                                           title="" data-original-title="Compare"><img src="~/assets/images/it-comp.png" alt=""></a>
+
+                                                        <a href="javascript:void(0)"
+                                                           onclick="myFunction(@item.id)"
+                                                           class="it-fav" data-toggle="tooltip" data-placement="left"
+                                                           title="Whish List"><img src="~/assets/images/it-fav.png" alt=""></a>
+
+                                                        <script type="text/javascript">
+                                                            function myFunction(id) {
+                                                                //  document.getElementById('cardcount').innerHTML = "100";
+                                                                $.ajax({
+                                                                    /* the route pointing to the post function */
+                                                                    url: '/Home/saveWishList?product_id=' + id,
+                                                                    type: 'GET',
+                                                                    /* send the csrf-token and the input to the controller */
+                                                                    data: {},
+                                                                    /* remind that 'data' is the response of the AjaxController */
+                                                                    success: function (data) {
+                                                                        Swal.fire({
+                                                                            title: 'Success!',
+                                                                            text: 'Product added into wish list',
+                                                                            icon: 'success',
+                                                                        })
+                                                                    }
+                                                                });
+                                                            }
+                                                        </script>
+                                                    </div>
+                                            </div>
+                                            <div class="img-content d-flex justify-content-between">
+                                                <div>
+                                                    <ul class="list-unstyled list-inline price">
+                                                        <li class="list-inline-item" style="    text-decoration: none;">Rs @item.product_price</li>
+                                                    </ul>
+                                                </div>
+                                                <div>
+                                                    @{
+
+                                                        var enabl2 = false;
+                                                        if (item.product_quantity > 0)
+                                                        {
+                                                            enabl2 = true;
+                                                        }
+
+                                                    }
+
+                                                    @if (enabl2)
+                                                    {
+                                                        <a href="javascript:void(0)"
+                                                           onclick="addTocard(@item.id)" data-toggle="tooltip" data-placement="top" title="Add to Cart"><img src="~/assets/images/it-cart.png" alt=""></a>
+
+                                                    }
+                                                    else
+                                                    {
+                                                        <a href="#"
+                                                           data-toggle="tooltip" data-placement="top" title="Stock Out">
+                                                            <img src="~/assets/images/it-cart.png" alt="">
+                                                        </a>
+
+                                                    }
+                                                    <script type="text/javascript">
+                                                        function addTocard(id) {
+
+                                                            $.ajax({
+                                                                /* the route pointing to the post function */
+                                                                url: '/Home/AddtoCart?product_id=' + id,
+                                                                type: 'GET',
+                                                                /* send the csrf-token and the input to the controller */
+                                                                data: {},
+                                                                /* remind that 'data' is the response of the AjaxController */
+                                                                success: function (data) {
+                                                                    if (data == 200) {
+                                                                        var cardcount = document.getElementById('cardcount');
+                                                                        var count = parseInt(cardcount.innerHTML);
+                                                                        cardcount.innerHTML = count.toString();
+
+                                                                        Swal.fire({
+                                                                            title: 'Success!',
+                                                                            text: 'Product added into cart',
+                                                                            icon: 'success',
+                                                                        })
+                                                                    } else if (data == 203) {
+                                                                        Swal.fire({
+                                                                            title: 'Error!',
+                                                                            text: 'Quantity not available',
+                                                                            icon: 'error',
+                                                                        })
+                                                                    } else if (data == 202) {
+                                                                        Swal.fire({
+                                                                            title: 'Success!',
+                                                                            text: 'Already Added',
+                                                                            icon: 'success',
+                                                                        })
+                                                                    }
+
+                                                                }
+                                                            });
+                                                        }
+                                                    </script>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    }
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12 padding-fix-l20">
+                            <div class="banner-two">
+                                <a href="/Home/SubCategories/17"><img src="~/assets/images/banner.png" alt="" class="img-fluid"></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+   

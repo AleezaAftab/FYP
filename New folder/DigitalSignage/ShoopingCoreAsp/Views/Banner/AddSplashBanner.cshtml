@@ -1,0 +1,57 @@
+﻿
+@{
+    ViewData["Title"] = "Add Slider";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+    <div class="container-fluid">
+     
+        @if (@ViewBag.banners == null)
+        {
+            <form asp-action="uploadSplashBanner" method="post" enctype="multipart/form-data">
+                <div class="row">
+                    <div class="col-md-5">
+                        <div class="form-group">
+                            <label>Select Banner Image</label>
+                            <input class="form-control" type="file" required name="file" />
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12" style=" padding: 10px;
+        text-align: center;
+">
+                    <input type="submit" class="btn btn-primary" />
+                </div>
+            </form>
+        }
+
+        @if (@ViewBag.banners != null)
+        {
+            <table id="example" class="table table-striped table-bordered" style="width:100%">
+                <thead>
+                    <tr>
+                        <th>Image</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><img src="/@ViewBag.banners.image" style="height:100px;width:300px;" /></td>
+                        <td>
+                            <a href="/banner/deleteSplashBanner/@ViewBag.banners.id" class="btn btn-danger btn-sm">Delete</a>
+                        </td>
+                    </tr>
+
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <th>Image</th>
+                        <th>Action</th>
+                    </tr>
+                </tfoot>
+            </table>
+        }
+
+        </div>
+

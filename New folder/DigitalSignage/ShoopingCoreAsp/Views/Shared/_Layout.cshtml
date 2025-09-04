@@ -1,0 +1,349 @@
+﻿@using System;
+@using System.Collections.Generic;
+@using System.Diagnostics;
+@using System.Linq;
+@using System.Threading.Tasks;
+@using Microsoft.AspNetCore.Mvc;
+@using Microsoft.Extensions.Logging;
+@using ShoopingCoreAsp.data;
+@using ShoopingCoreAsp.Models;
+@using Microsoft.AspNetCore.Http;
+
+<!doctype html>
+<html class="no-js" lang="zxx">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>DIGITAL SIGNAGE</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet">
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="~/assets/css/assets/bootstrap.min.css">
+
+    <!-- Fontawesome Icon -->
+    <link rel="stylesheet" href="~/assets/css/assets/font-awesome.min.css">
+
+    <!-- Animate Css -->
+    <link rel="stylesheet" href="~/assets/css/assets/animate.css">
+
+    <!-- Owl Slider -->
+    <link rel="stylesheet" href="~/assets/css/assets/owl.carousel.min.css">
+
+    <!-- Custom Style -->
+    <link rel="stylesheet" href="~/assets/css/assets/normalize.css">
+    <link rel="stylesheet" href="~/assets/css/style.css">
+    <link rel="stylesheet" href="~/assets/css/assets/responsive.css">
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+
+    <style>
+
+        .overlay {
+            height: 100%;
+            width: 0;
+            position: fixed;
+            z-index: 1;
+            top: 0;
+            left: 0;
+            background-color: rgb(0,0,0);
+            background-color: rgba(0,0,0, 0.9);
+            overflow-x: hidden;
+            transition: 0.5s;
+        }
+
+        .overlay-content {
+            position: relative;
+            top: 25%;
+            width: 100%;
+            text-align: center;
+            margin-top: 30px;
+        }
+
+        .overlay a {
+            padding: 8px;
+            text-decoration: none;
+            font-size: 36px;
+            color: #818181;
+            display: block;
+            transition: 0.3s;
+        }
+
+            .overlay a:hover, .overlay a:focus {
+                color: #f1f1f1;
+            }
+
+        .overlay .closebtn {
+            position: absolute;
+            top: 20px;
+            right: 45px;
+            font-size: 60px;
+        }
+    </style>
+    
+</head>
+
+
+<body>
+    <script>
+        window.addEventListener("load", function(){
+                $.ajax({
+                /* the route pointing to the post function */
+                url: '/Home/CountCart/',
+                type: 'GET',
+                /* send the csrf-token and the input to the controller */
+                data: {},
+                /* remind that 'data' is the response of the AjaxController */
+                success: function (data) {
+                    document.getElementById("cardcount").innerHTML = data.toString();
+                }
+                });
+
+              $.ajax({
+                /* the route pointing to the post function */
+                url: '/Home/ajax_category/',
+                type: 'GET',
+                /* send the csrf-token and the input to the controller */
+                data: {},
+                /* remind that 'data' is the response of the AjaxController */
+                success: function (data) {
+                    document.getElementById("data").innerHTML = data;
+                }
+              });
+
+            $.ajax({
+                /* the route pointing to the post function */
+                url: '/Home/getAllCategoriesLIMIT7/',
+                type: 'GET',
+                /* send the csrf-token and the input to the controller */
+                data: {},
+                /* remind that 'data' is the response of the AjaxController */
+                success: function (data) {
+                    document.getElementById("data2").innerHTML = data;
+                }
+            });
+               $.ajax({
+                /* the route pointing to the post function */
+                url: '/Home/getFooterAddress/',
+                type: 'GET',
+                /* send the csrf-token and the input to the controller */
+                data: {},
+                /* remind that 'data' is the response of the AjaxController */
+                success: function (data) {
+                    document.getElementById("contact").innerHTML = data;
+                }
+            });
+            
+
+        });
+       
+    </script>
+    <!-- Preloader -->
+    <div class="preloader">
+        <div class="load-list">
+            <div class="load"></div>
+            <div class="load load2"></div>
+        </div>
+    </div>
+    <!-- End Preloader -->
+    <!-- Top Bar -->
+    <section class="top-bar">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-4">
+
+                </div>
+                <div class="col-lg-6 col-md-8">
+                    <div class="top-right text-right">
+                        <ul class="list-unstyled list-inline">
+
+                            <li class="list-inline-item">
+                                <a href="/Home/WhishList"><img src="~/assets/images/wishlist.png" alt="">Wishlist</a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="/Checkout"><img src="~/assets/images/checkout.png" alt="">Checkout</a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="/Home/Track"><img src="~/assets/images/login.png" alt="">Track Order</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Top Bar -->
+    <!-- Logo Area -->
+    <section class="logo-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="logo">
+                        <a href="/">
+                            <img src="~/images/logoDS.png" alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-5 padding-fix">
+                    <form asp-action="search" method="post"  class="search-bar" >
+                        <input type="text" name="product_name" placeholder="I'm looking for...">
+                        <button type="submit"><i class="fa fa-search"></i></button>
+                    </form>
+                </div>
+                <div class="col-md-4">
+                    <div class="carts-area d-flex">
+                        <div class="call-box d-flex">
+                            <div class="call-ico">
+                                <img src="~/assets/images/call.png" alt="">
+                            </div>
+                            <div class="call-content">
+                                <span>Call Us</span>
+                                <p>+92 3045117536</p>
+                            </div>
+                        </div>
+                        <div class="cart-box ml-auto text-center">
+                            <a href="/Home/CartList">
+                                <img src="~/assets/images/cart.png" alt="cart">
+                                <!-- <span id="cardcount">0</span> -->
+
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Logo Area -->
+    <!-- Cart Body -->
+    <section class="menu-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="main-menu">
+                        <ul class="list-unstyled list-inline">
+                            <li class="list-inline-item">
+                                <a href="/">HOME </a>
+                                
+                            </li>
+                         
+                            <li class="list-inline-item">
+                                <a>CATEGORIES <i class="fa fa-angle-down"></i></a>
+                                <ul class="dropdown list-unstyled" id="data">
+                                </ul>
+                            </li>
+                            <li class="list-inline-item"><a href="/Home/ContactUs">CONTACT</a></li>
+                            <li class="list-inline-item"><a href="/Home/AboutUS">ABOUT US</a></li>
+                            <li class="list-inline-item trac-btn"><a href="/Home/Track">Track Your Order</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- End Cart Body -->
+    @if (TempData.ContainsKey("error"))
+    {
+        <script>
+        Swal.fire({
+  title: 'Error!',
+  text: '@TempData["error"]',
+  icon: 'error',
+  confirmButtonText: 'OK'
+})
+        </script>
+    }
+
+    @if (TempData.ContainsKey("success"))
+    {
+        <script>
+        Swal.fire({
+  title: 'Success!',
+  text: '@TempData["success"]',
+  icon: 'success',
+  confirmButtonText: 'OK'
+})
+        </script>
+    }
+    <!-- End Mobile Menu -->
+    @RenderBody()
+    <!-- Slider Area -->
+    <!-- End Product Area -->
+    <!-- Footer Area -->
+
+<section class="footer-top">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3" id="contact">
+                
+            </div>
+            <div class="col-md-3">
+                <div class="f-cat">
+                    <h5>Categories</h5>
+                    <ul class="list-unstyled" id="data2">
+                        
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="f-link">
+                    <h5>Quick Links</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="/Home/CartList"><i class="fa fa-angle-right"></i>Shopping Cart</a></li>
+                        <li><a href="/Home/WhishList"><i class="fa fa-angle-right"></i>My Wishlist</a></li>
+                        <li><a href="/Home/Track"><i class="fa fa-angle-right"></i>Track Order</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="f-sup">
+                    <h5>Support</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="/"><i class="fa fa-angle-right"></i>Home</a></li>
+                        <li><a href="Home/ContactUs/"><i class="fa fa-angle-right"></i>Contact Us</a></li>
+                        <li><a href="Home/AboutUs"><i class="fa fa-angle-right"></i>About US</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+    <!-- End Footer Area -->
+    <!-- =========================================
+        JavaScript Files
+        ========================================== -->
+    <!-- jQuery JS -->
+    <script src="~/assets/js/assets/vendor/jquery-1.12.4.min.js"></script>
+
+    <!-- Bootstrap -->
+    <script src="~/assets/js/assets/popper.min.js"></script>
+    <script src="~/assets/js/assets/bootstrap.min.js"></script>
+
+    <!-- Owl Slider -->
+    <script src="~/assets/js/assets/owl.carousel.min.js"></script>
+
+    <!-- Wow Animation -->
+    <script src="~/assets/js/assets/wow.min.js"></script>
+
+    <!-- Price Filter -->
+    <script src="~/js/assets/price-filter.js"></script>
+
+    <!-- Mean Menu -->
+    <script src="~/assets/js/assets/jquery.meanmenu.min.js"></script>
+
+    <!-- Custom JS -->
+    <script src="~/assets/js/plugins.js"></script>
+    <script src="~/assets/js/custom.js"></script>
+
+</body>
+
+
+</html>

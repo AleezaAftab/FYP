@@ -1,0 +1,226 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.RootNamespace = ShoopingCoreAsp
+build_property.RootNamespace = ShoopingCoreAsp
+build_property.ProjectDir = /Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Address/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRkcmVzcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Address/Social.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRkcmVzcy9Tb2NpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Admin/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Admin/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Admin/Product/ProductList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vUHJvZHVjdC9Qcm9kdWN0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Admin/Product/ProductPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vUHJvZHVjdC9Qcm9kdWN0UGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Admin/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Banner/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmFubmVyL0FkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Banner/AddSplashBanner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmFubmVyL0FkZFNwbGFzaEJhbm5lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Banner/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmFubmVyL0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Category/AjaxList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvQWpheExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Category/allCategories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvYWxsQ2F0ZWdvcmllcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Category/allSubCategories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvYWxsU3ViQ2F0ZWdvcmllcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Category/Brand.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvQnJhbmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Category/BrandList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvQnJhbmRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Category/Category.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Category/EditBrands.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvRWRpdEJyYW5kcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Category/EditSubCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvRWRpdFN1YkNhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Category/findCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvZmluZENhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Category/SubCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvU3ViQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/CheckOut/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hlY2tPdXQvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/CheckOut/OrderId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hlY2tPdXQvT3JkZXJJZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/comparision/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvY29tcGFyaXNpb24vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Home/CartList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9DYXJ0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Home/cat_menu_ajax.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9jYXRfbWVudV9hamF4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Home/cat_menu_ajax2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9jYXRfbWVudV9hamF4Mi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Home/compare.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9jb21wYXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Home/dummy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9kdW1teS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Home/footer_address.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9mb290ZXJfYWRkcmVzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Home/ProductDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcm9kdWN0RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Home/Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Home/SubCategories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TdWJDYXRlZ29yaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Home/Track.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9UcmFjay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Home/WhishList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9XaGlzaExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Order/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXIvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXIvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Order/Other.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXIvT3RoZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Product/EditProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9FZGl0UHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Shared/error_layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL2Vycm9yX2xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

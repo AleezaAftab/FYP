@@ -1,0 +1,88 @@
+﻿
+@{
+    ViewData["Title"] = "Checkout";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Breadcrumb Area -->
+<section class="breadcrumb-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="breadcrumb-box text-center">
+                    <ul class="list-unstyled list-inline">
+                        <li class="list-inline-item"><a href="#">Home</a></li>
+                        <li class="list-inline-item"><span>||</span> Cart List</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Breadcrumb Area -->
+<!-- Wishlist -->
+<section class="shopping-cart">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-9">
+                <div class="cart-table wsh-list table-responsive">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th class="t-pro">Product</th>
+                                <th class="t-price">Price</th>
+                                <th class="t-total">Quantity</th>
+                                <th class="t-total">Action</th>
+                                <th class="t-total"></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @{ 
+                                var totalSum = 0;
+                            }
+                            @foreach (var item in ViewBag.carts_list)
+                            {
+                                <form asp-action="updateCart" method="post">
+                                    <tr>
+
+                                        <td class="t-pro d-flex">
+                                            <div class="t-img">
+                                                <a href="#"><img src="/@item.product_image" style="height: 100px;width: 100px;" alt=""></a>
+                                            </div>
+                                            <div class="t-content">
+                                                <p class="t-heading"><a href="#">@item.product_name</a></p>
+                                            </div>
+                                        </td>
+                                        <td class="t-price">Rs @(item.product_price * @item.quantity) </td>
+                                        @{
+                                            totalSum = totalSum + item.product_price * @item.quantity;
+                                        }
+                                        <td class="t-price">
+                                            <input type="number"  min="0"  style="width:50px;" name="quantity"
+                                                   form-control" value="@item.quantity" />
+                                        </td>
+                                        <td class="t-add">
+                                            <input type="hidden" name="id" value="@item.id" />
+                                            <input type="hidden" name="product_id" value="@item.product_id" />
+                                            <input type="submit" value="Update Cart" class="btn btn-sm btn-primary" />
+                                        </td>
+                                        <td class="t-rem"><a href="/Home/deleteCat/@item.id"><i class="fa fa-trash-o"></i></a></td>
+                                    </tr>
+                                </form>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+
+
+            </div>
+            <div class="col-md-3 well" style="background:lightgray;text-align: center;">
+               
+                <p> <br /><b>Total Price:&nbsp;</b> <span>@totalSum</span></p>
+                <p> <br /> <b>Total items:</b> <span>@ViewBag.carts_list.Count</span></p><br /><br />
+                <a href="/checkout" class="btn btn-danger btn-lg"> Checkout</a>
+            </div>
+        </div>
+    </div>
+
+</section>

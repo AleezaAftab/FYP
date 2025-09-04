@@ -1,0 +1,232 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.RootNamespace = ShoopingCoreAsp
+build_property.RootNamespace = ShoopingCoreAsp
+build_property.ProjectDir = C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Address/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkcmVzc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Address/Social.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkcmVzc1xTb2NpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Admin/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Admin/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Admin/Product/ProductList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZHVjdFxQcm9kdWN0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Admin/Product/ProductPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZHVjdFxQcm9kdWN0UGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Admin/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Banner/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFubmVyXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Banner/AddSplashBanner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFubmVyXEFkZFNwbGFzaEJhbm5lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Banner/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFubmVyXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Category/AjaxList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWpheExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Category/allCategories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcYWxsQ2F0ZWdvcmllcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Category/allSubCategories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcYWxsU3ViQ2F0ZWdvcmllcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Category/Brand.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQnJhbmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Category/BrandList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQnJhbmRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Category/Category.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Category/EditBrands.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdEJyYW5kcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Category/EditSubCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdFN1YkNhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Category/findCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcZmluZENhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Category/SubCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcU3ViQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/CheckOut/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tPdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/CheckOut/OrderId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tPdXRcT3JkZXJJZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/CheckOut/PayPalCheckout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tPdXRcUGF5UGFsQ2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/comparision/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29tcGFyaXNpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Home/CartList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJ0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Home/cat_menu_ajax.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjYXRfbWVudV9hamF4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Home/cat_menu_ajax2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjYXRfbWVudV9hamF4Mi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Home/compare.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb21wYXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Home/dummy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxkdW1teS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Home/footer_address.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxmb290ZXJfYWRkcmVzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Home/ProductDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Home/Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Home/SubCategories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWJDYXRlZ29yaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Home/Track.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUcmFjay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Home/WhishList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXaGlzaExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Order/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Order/Other.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcT3RoZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Product/EditProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0UHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Shared/error_layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGVycm9yX2xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uaume/OneDrive/Desktop/FYP/New folder/DigitalSignage/ShoopingCoreAsp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

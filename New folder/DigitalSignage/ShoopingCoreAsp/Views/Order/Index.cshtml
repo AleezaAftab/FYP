@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewData["Title"] = "Orders";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="container-fluid">
+
+    <table id="example" class="table table-striped table-bordered" style="width:100%">
+        <thead>
+            <tr>
+                <th>Order No</th>
+                <th>Username</th>
+                <th>Email</th>
+                <th>Phone Number</th>
+                <th>Address</th>
+                <th>City</th>
+                <th>Status</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.orders)
+            {
+                <tr>
+                    <td>@item.id</td>
+                    <td>@item.username</td>
+                    <td>@item.email</td>
+                    <td>@item.phone_number</td>
+                    <td>@item.address</td>
+                    <td>@item.city</td>
+                    <td>@item.status</td>
+                    <td>
+                        <a href="/order/orderProductLists?id=@item.id" class="btn btn-info btn-sm">Details</a>
+                        <a href="/order/updateOrderStatus?id=@item.id&status=Completed" class="btn btn-primary btn-sm">Completed It</a>
+                        <a href="/order/updateOrderStatus?id=@item.id&status=Canceled" class="btn btn-danger btn-sm">Cancel It</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <th>Order No</th>
+                <th>Username</th>
+                <th>Email</th>
+                <th>Phone Number</th>
+                <th>Address</th>
+                <th>City</th>
+                <th>Status</th>
+                <th>Action</th>
+            </tr>
+        </tfoot>
+    </table>
+</div>

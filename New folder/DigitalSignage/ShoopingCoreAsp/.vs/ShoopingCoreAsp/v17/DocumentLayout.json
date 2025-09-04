@@ -1,0 +1,584 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\views\\order\\invoicepdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:views\\order\\invoicepdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\views\\order\\other.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:views\\order\\other.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\wwwroot\\admin\\vendor\\chart.js\\chart.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:wwwroot\\admin\\vendor\\chart.js\\chart.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\views\\home\\footer_address.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:views\\home\\footer_address.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\views\\home\\track.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:views\\home\\track.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\views\\home\\dummy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:views\\home\\dummy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\views\\home\\compare.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:views\\home\\compare.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\views\\home\\cat_menu_ajax.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:views\\home\\cat_menu_ajax.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\views\\home\\cartlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:views\\home\\cartlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\views\\category\\subcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:views\\category\\subcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\views\\category\\findcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:views\\category\\findcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\views\\category\\editsubcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:views\\category\\editsubcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\views\\category\\brandlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:views\\category\\brandlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\views\\category\\brand.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:views\\category\\brand.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\views\\category\\allsubcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:views\\category\\allsubcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\views\\category\\allcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:views\\category\\allcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\views\\banner\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:views\\banner\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\views\\admin\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:views\\admin\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\views\\address\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:views\\address\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|c:\\users\\uaume\\onedrive\\desktop\\fyp\\new folder\\digitalsignage\\shoopingcoreasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02256020-B9C0-42D7-93D8-19BAC03273E8}|ShoopingCoreAsp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T21:14:20.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T21:00:13.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvoicePdf.cshtml",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Order\\InvoicePdf.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\InvoicePdf.cshtml",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Order\\InvoicePdf.cshtml",
+              "RelativeToolTip": "Views\\Order\\InvoicePdf.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T20:58:29.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAEsAAACAZmZmZmb2v1sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T20:53:39.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:42:57.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Login.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:37:17.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Chart.bundle.js",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\wwwroot\\admin\\vendor\\chart.js\\Chart.bundle.js",
+              "RelativeDocumentMoniker": "wwwroot\\admin\\vendor\\chart.js\\Chart.bundle.js",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\wwwroot\\admin\\vendor\\chart.js\\Chart.bundle.js",
+              "RelativeToolTip": "wwwroot\\admin\\vendor\\chart.js\\Chart.bundle.js",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwJREAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-12T09:50:12.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAEwBAAAAAAAAAAAAAMEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:41:20.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Other.cshtml",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Order\\Other.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Other.cshtml",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Order\\Other.cshtml",
+              "RelativeToolTip": "Views\\Order\\Other.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:44:50.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T21:00:19.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "footer_address.cshtml",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Home\\footer_address.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\footer_address.cshtml",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Home\\footer_address.cshtml",
+              "RelativeToolTip": "Views\\Home\\footer_address.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:41:10.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAMzMzMzMLwCAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:37:02.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Track.cshtml",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Home\\Track.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Track.cshtml",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Home\\Track.cshtml",
+              "RelativeToolTip": "Views\\Home\\Track.cshtml",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAuwFAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:43:36.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "Views\\Order\\Details.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:44:23.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Models\\Admin.cs",
+              "RelativeToolTip": "Models\\Admin.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:42:37.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Home\\ProductDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ProductDetails.cshtml",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Home\\ProductDetails.cshtml",
+              "RelativeToolTip": "Views\\Home\\ProductDetails.cshtml",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAYwJgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:42:59.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dummy.cshtml",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Home\\dummy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\dummy.cshtml",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Home\\dummy.cshtml",
+              "RelativeToolTip": "Views\\Home\\dummy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:41:07.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:40:42.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "compare.cshtml",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Home\\compare.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\compare.cshtml",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Home\\compare.cshtml",
+              "RelativeToolTip": "Views\\Home\\compare.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:40:37.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "cat_menu_ajax.cshtml",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Home\\cat_menu_ajax.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\cat_menu_ajax.cshtml",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Home\\cat_menu_ajax.cshtml",
+              "RelativeToolTip": "Views\\Home\\cat_menu_ajax.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:40:34.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CartList.cshtml",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Home\\CartList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\CartList.cshtml",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Home\\CartList.cshtml",
+              "RelativeToolTip": "Views\\Home\\CartList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:40:32.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SubCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Category\\SubCategory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\SubCategory.cshtml",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Category\\SubCategory.cshtml",
+              "RelativeToolTip": "Views\\Category\\SubCategory.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:40:02.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "findCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Category\\findCategory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\findCategory.cshtml",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Category\\findCategory.cshtml",
+              "RelativeToolTip": "Views\\Category\\findCategory.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:39:55.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EditSubCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Category\\EditSubCategory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\EditSubCategory.cshtml",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Category\\EditSubCategory.cshtml",
+              "RelativeToolTip": "Views\\Category\\EditSubCategory.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:39:46.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BrandList.cshtml",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Category\\BrandList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\BrandList.cshtml",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Category\\BrandList.cshtml",
+              "RelativeToolTip": "Views\\Category\\BrandList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:39:35.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:36:00.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Brand.cshtml",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Category\\Brand.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Brand.cshtml",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Category\\Brand.cshtml",
+              "RelativeToolTip": "Views\\Category\\Brand.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:39:28.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "allSubCategories.cshtml",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Category\\allSubCategories.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\allSubCategories.cshtml",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Category\\allSubCategories.cshtml",
+              "RelativeToolTip": "Views\\Category\\allSubCategories.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:39:22.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "allCategories.cshtml",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Category\\allCategories.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\allCategories.cshtml",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Category\\allCategories.cshtml",
+              "RelativeToolTip": "Views\\Category\\allCategories.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:39:18.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Banner\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Banner\\Add.cshtml",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Banner\\Add.cshtml",
+              "RelativeToolTip": "Views\\Banner\\Add.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:38:49.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Admin\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Admin\\Profile.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Profile.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:37:11.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Address\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Address\\Index.cshtml",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\Address\\Index.cshtml",
+              "RelativeToolTip": "Views\\Address\\Index.cshtml",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:36:25.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\CheckOut\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\CheckOut\\Index.cshtml",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Views\\CheckOut\\Index.cshtml",
+              "RelativeToolTip": "Views\\CheckOut\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T08:36:05.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:40:55.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\uaume\\OneDrive\\Desktop\\FYP\\New folder\\DigitalSignage\\ShoopingCoreAsp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:39:22.268Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewData["Title"] = "OrderId";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="error-sec">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="error-box text-center">
+                    <h1>@TempData["orderID"]</h1>
+                    <h3>Your Order Number</h3>
+                    <a href="/"><i class="fas fa-home"></i>Back To Homepage</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

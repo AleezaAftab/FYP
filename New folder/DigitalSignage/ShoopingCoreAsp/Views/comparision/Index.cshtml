@@ -1,0 +1,57 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Breadcrumb Area -->
+<section class="breadcrumb-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="breadcrumb-box text-center">
+                    <ul class="list-unstyled list-inline">
+                        <li class="list-inline-item"><a href="/">Home</a></li>
+                        <li class="list-inline-item"><span>||</span>Product From Telemart</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="sg-product">
+    <div class="text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-9">
+                    <div class="row">
+                        <div class="col-md-5">
+                            <div class="sg-img">
+                                <!-- Tab panes -->
+                                <div class="tab-content">
+                                    <img src="@ViewBag.i" alt="" class="img-fluid">
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="col-md-7">
+                            <div class="sg-content">
+                                <div class="pro-name">
+                                    <p>@ViewBag.t</p>
+                                </div>
+                                <div>
+                                    <p>------------------------------------------------------------------------</p>
+                                </div>
+                                <div class="list-unstyled list-inline">
+                                    <div class="pro-name">
+                                        <p>@ViewBag.s</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

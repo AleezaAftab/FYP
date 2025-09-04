@@ -1,0 +1,505 @@
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/appsettings.Development.json
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/appsettings.json
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/ShoopingCoreAsp.staticwebassets.runtime.json
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/ShoopingCoreAsp
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/ShoopingCoreAsp.deps.json
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/ShoopingCoreAsp.runtimeconfig.json
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/ShoopingCoreAsp.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/ShoopingCoreAsp.pdb
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/BouncyCastle.Crypto.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/Google.Protobuf.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/HtmlAgilityPack.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/K4os.Compression.LZ4.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/K4os.Compression.LZ4.Streams.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/K4os.Hash.xxHash.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/dotnet-aspnet-codegenerator-design.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/MySql.Data.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/Ubiety.Dns.Core.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/Zstandard.Net.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/NuGet.Frameworks.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/obj/Debug/net8.0/ShoopingCoreAsp.csproj.AssemblyReference.cache
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/obj/Debug/net8.0/ShoopingCoreAsp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/obj/Debug/net8.0/ShoopingCoreAsp.AssemblyInfoInputs.cache
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/obj/Debug/net8.0/ShoopingCoreAsp.AssemblyInfo.cs
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/obj/Debug/net8.0/ShoopingCoreAsp.csproj.CoreCompileInputs.cache
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/obj/Debug/net8.0/ShoopingCoreAsp.MvcApplicationPartsAssemblyInfo.cache
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/obj/Debug/net8.0/ShoopingCoreAsp.RazorAssemblyInfo.cache
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/obj/Debug/net8.0/ShoopingCoreAsp.RazorAssemblyInfo.cs
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/obj/Debug/net8.0/staticwebassets.build.json
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/obj/Debug/net8.0/staticwebassets.development.json
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/obj/Debug/net8.0/staticwebassets/msbuild.ShoopingCoreAsp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/obj/Debug/net8.0/staticwebassets/msbuild.build.ShoopingCoreAsp.props
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ShoopingCoreAsp.props
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ShoopingCoreAsp.props
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/obj/Debug/net8.0/scopedcss/bundle/ShoopingCoreAsp.styles.css
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/obj/Debug/net8.0/Shooping.23F20A12.Up2Date
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/obj/Debug/net8.0/ShoopingCoreAsp.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/obj/Debug/net8.0/refint/ShoopingCoreAsp.dll
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/obj/Debug/net8.0/ShoopingCoreAsp.pdb
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/obj/Debug/net8.0/ShoopingCoreAsp.genruntimeconfig.cache
+/Users/development/Desktop/Digital_Signage/DigitalSignage/ShoopingCoreAsp/obj/Debug/net8.0/ref/ShoopingCoreAsp.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\appsettings.json
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ShoopingCoreAsp.staticwebassets.runtime.json
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ShoopingCoreAsp.exe
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ShoopingCoreAsp.deps.json
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ShoopingCoreAsp.runtimeconfig.json
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ShoopingCoreAsp.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ShoopingCoreAsp.pdb
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Ubiety.Dns.Core.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Zstandard.Net.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.csproj.AssemblyReference.cache
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.AssemblyInfoInputs.cache
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.AssemblyInfo.cs
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.RazorAssemblyInfo.cache
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.RazorAssemblyInfo.cs
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\staticwebassets\msbuild.ShoopingCoreAsp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\staticwebassets\msbuild.build.ShoopingCoreAsp.props
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShoopingCoreAsp.props
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShoopingCoreAsp.props
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\scopedcss\bundle\ShoopingCoreAsp.styles.css
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\Shooping.23F20A12.Up2Date
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\refint\ShoopingCoreAsp.dll
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.pdb
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.genruntimeconfig.cache
+C:\Users\PMLS\Desktop\Digital_Signage-main\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ref\ShoopingCoreAsp.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\appsettings.json
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ShoopingCoreAsp.staticwebassets.runtime.json
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ShoopingCoreAsp.staticwebassets.endpoints.json
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ShoopingCoreAsp.exe
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ShoopingCoreAsp.deps.json
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ShoopingCoreAsp.runtimeconfig.json
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ShoopingCoreAsp.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ShoopingCoreAsp.pdb
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Ubiety.Dns.Core.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Zstandard.Net.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.csproj.AssemblyReference.cache
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.AssemblyInfoInputs.cache
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.AssemblyInfo.cs
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.csproj.CoreCompileInputs.cache
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.RazorAssemblyInfo.cache
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.RazorAssemblyInfo.cs
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\scopedcss\bundle\ShoopingCoreAsp.styles.css
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\Shooping.23F20A12.Up2Date
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\refint\ShoopingCoreAsp.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.pdb
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.genruntimeconfig.cache
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ref\ShoopingCoreAsp.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\appsettings.json
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ShoopingCoreAsp.staticwebassets.runtime.json
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ShoopingCoreAsp.staticwebassets.endpoints.json
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ShoopingCoreAsp.exe
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ShoopingCoreAsp.deps.json
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ShoopingCoreAsp.runtimeconfig.json
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ShoopingCoreAsp.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ShoopingCoreAsp.pdb
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Ubiety.Dns.Core.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Zstandard.Net.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.csproj.AssemblyReference.cache
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.AssemblyInfoInputs.cache
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.AssemblyInfo.cs
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.csproj.CoreCompileInputs.cache
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.RazorAssemblyInfo.cache
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.RazorAssemblyInfo.cs
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\scopedcss\bundle\ShoopingCoreAsp.styles.css
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\staticwebassets\msbuild.ShoopingCoreAsp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\staticwebassets\msbuild.ShoopingCoreAsp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\staticwebassets\msbuild.build.ShoopingCoreAsp.props
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShoopingCoreAsp.props
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShoopingCoreAsp.props
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\Shooping.23F20A12.Up2Date
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\refint\ShoopingCoreAsp.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.pdb
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.genruntimeconfig.cache
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ref\ShoopingCoreAsp.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\PayPalCheckoutSdk.dll
+C:\Users\FA\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\PayPalHttp-Dotnet.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\PayPalCheckoutSdk.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\PayPalHttp-Dotnet.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\bin\Debug\net8.0\Rotativa.AspNetCore.dll
+C:\Users\uaume\OneDrive\Desktop\FYP\New folder\DigitalSignage\ShoopingCoreAsp\obj\Debug\net8.0\ShoopingCoreAsp.MvcApplicationPartsAssemblyInfo.cs

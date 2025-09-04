@@ -1,0 +1,11 @@
+﻿
+@{
+    Layout = null;
+}
+
+
+
+@foreach (var item in ViewBag.category)
+{
+    <li> <a href="/Home/SubCategories/@item.id">@item.name</a></li>
+}

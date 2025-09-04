@@ -1,0 +1,42 @@
+﻿@model IEnumerable<dynamic>
+
+@{
+    Layout = null;
+}
+
+<h2>Invoice</h2>
+<table border="1" cellpadding="5" cellspacing="0" width="100%">
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Quantity</th>
+            <th>Price</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int grandTotal = 0;
+            foreach (var item in Model)
+            {
+                var qty = Convert.ToInt32(item.quantity);
+                var price = Convert.ToInt32(item.product_price);
+                var total = qty * price;
+                grandTotal += total;
+            }
+        }
+        @foreach (var item in Model)
+        {
+            var qty = Convert.ToInt32(item.quantity);
+            var price = Convert.ToInt32(item.product_price);
+            var total = qty * price;
+            <tr>
+                <td>@item.name</td>
+                <td>@item.quantity</td>
+                <td>@item.product_price</td>
+                <td>@total</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<h3>Grand Total: @grandTotal</h3>

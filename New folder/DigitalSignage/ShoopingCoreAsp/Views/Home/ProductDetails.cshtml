@@ -1,0 +1,265 @@
+﻿
+@{
+    ViewData["Title"] = "ProductDetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js" />
+
+<script>
+    function myFunction(id) {
+        $.ajax({
+            /* the route pointing to the post function */
+            url: '/Home/saveWishList/' + id,
+            type: 'GET',
+            /* send the csrf-token and the input to the controller */
+            data: {},
+            /* remind that 'data' is the response of the AjaxController */
+            success: function (data) {
+                alert(data);
+            }
+        });
+    }
+
+</script>
+
+
+<!-- Breadcrumb Area -->
+<section class="breadcrumb-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="breadcrumb-box text-center">
+                    <ul class="list-unstyled list-inline">
+                        <li class="list-inline-item"><a href="/">Home</a></li>
+                        <li class="list-inline-item"><span>||</span> Single Product</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Breadcrumb Area -->
+<!-- Single Product Area -->
+<section class="sg-product">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-9">
+                <div class="row">
+                    <div class="col-md-5">
+                        <div class="sg-img">
+                            <!-- Tab panels -->
+                            <div class="tab-content">
+                                <div class="tab-pane fade show active" id="sg1" role="tabpanel">
+                                    <img src="/@ViewBag.product.product_image" alt="" class="img-fluid">
+                                </div>
+                                <div class="tab-pane" id="sg2" role="tabpanel">
+                                    <img src="/@ViewBag.product.product_image1" alt="" class="img-fluid">
+                                </div>
+
+                                <div class="tab-pane" id="sg3" role="tabpanel">
+                                    <img src="/@ViewBag.product.product_image2" alt="" class="img-fluid">
+                                </div>
+                                <div class="tab-pane" id="sg4" role="tabpanel">
+                                    <img src="/@ViewBag.product.product_image3" alt="" class="img-fluid">
+                                </div>
+                            </div>
+                            <div class="nav d-flex justify-content-between">
+                                <a class="nav-item nav-link" data-toggle="tab" href="#sg1"><img src="/@ViewBag.product.product_image" alt=""></a>
+                                <a class="nav-item nav-link" data-toggle="tab" href="#sg2"><img src="/@ViewBag.product.product_image1" alt=""></a>
+                                <a class="nav-item nav-link" data-toggle="tab" href="#sg3"><img src="/@ViewBag.product.product_image2" alt=""></a>
+                                <a class="nav-item nav-link active" data-toggle="tab" href="#sg4"><img src="/@ViewBag.product.product_image3" alt=""></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <div class="sg-content">
+                            <div class="pro-name">
+                                <p>@ViewBag.product.product_name</p>
+                            </div>
+                            <div class="pro-price">
+                                <ul class="list-unstyled list-inline">
+                                    <li class="list-inline-item" style="    text-decoration: none;">Rs @ViewBag.product.product_price</li>
+                                </ul>
+                                <p>Availability : <span>
+                                      @{ 
+                                          var stock = 0;
+                                          var status = "";
+                                          var enable = false;
+                                          if (ViewBag.product.product_quantity >0)
+                                          {
+                                              status = "In Stock";
+                                              enable = true;
+                                              stock  = ViewBag.product.product_quantity;
+                                          }
+                                          else {
+                                              status = "StockOut";
+                                              stock = 0;
+                                          }
+                                       }
+
+                                      @status
+
+                                      </span> <label>(@stock Available)</label></p>
+                            </div>
+                            <div class="colo-siz">
+
+                                <div class="pro-btns">
+                                    @if (enable)
+                                    {
+                                        <a href="javascript:void(0)"
+                                           onclick="addTocard(@ViewBag.product.id)" class="cart">Add To Cart</a>
+
+                                    }
+                                    else
+                                    {
+                                        <a href="#"
+                                           class="cart" style="background: gray;">Add To Cart</a>
+                                    }
+
+                                    <script type="text/javascript">
+                                        function addTocard(id) {
+
+                                            $.ajax({
+                                                /* the route pointing to the post function */
+                                                url: '/Home/AddtoCart?product_id=' + id,
+                                                type: 'GET',
+                                                /* send the csrf-token and the input to the controller */
+                                                data: {},
+                                                /* remind that 'data' is the response of the AjaxController */
+                                                success: function (data) {
+                                                    if (data == 200) {
+                                                        var cardcount = document.getElementById('cardcount');
+                                                        var count = parseInt(cardcount.innerHTML) + 1;
+                                                        cardcount.innerHTML = count.toString();
+
+                                                        Swal.fire({
+                                                            title: 'Success!',
+                                                            text: 'Product added into cart',
+                                                            icon: 'success',
+                                                        })
+                                                    } else {
+                                                        Swal.fire({
+                                                            title: 'Success!',
+                                                            text: 'Already addd',
+                                                            icon: 'success',
+                                                        })
+                                                    }
+
+                                                }
+                                            });
+                                        }
+                                    </script>
+                                    <a href="javascript:void(0)"
+                                       onclick="myFunction(@ViewBag.product.id)" class="fav-com" data-toggle="tooltip" data-placement="top" title="Wishlist"><img src="~/assets/images/it-fav.png" alt=""></a>
+                                    <a href="/Home/compareProduct?category_id=@ViewBag.product.cate_id&price=@ViewBag.product.product_price" class="fav-com" data-toggle="tooltip" data-placement="top" title="Compare"><img src="~/assets/images/it-comp.png" alt=""></a>
+
+
+                                    <script type="text/javascript">
+                                        function myFunction(id) {
+                                            //  document.getElementById('cardcount').innerHTML = "100";
+                                            $.ajax({
+                                                /* the route pointing to the post function */
+                                                url: '/Home/saveWishList?product_id=' + id,
+                                                type: 'GET',
+                                                /* send the csrf-token and the input to the controller */
+                                                data: {},
+                                                /* remind that 'data' is the response of the AjaxController */
+                                                success: function (data) {
+                                                    Swal.fire({
+                                                        title: 'Success!',
+                                                        text: 'Product added into wish list',
+                                                        icon: 'success',
+
+                                                    })
+
+                                                }
+                                            });
+                                        }
+                                    </script>
+
+
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-md-12">
+                        <div class="sg-tab">
+                            <ul class="nav nav-tabs" role="tablist">
+                                <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#pro-det">Product Details</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <div class="tab-pane fade show active" id="pro-det" role="tabpanel">
+                                    <p>
+                                        @Html.Raw(System.Web.HttpUtility.HtmlDecode(ViewBag.product.product_details))
+                                    </p>
+                                </div>
+                            </div>
+                           
+
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="sim-pro">
+                            <div class="sec-title">
+                                <h5>Similar Product</h5>
+                            </div>
+                            <div class="sim-slider owl-carousel">
+
+                                @foreach (var item in ViewBag.productsCat)
+                                {
+                                    <div class="sim-item">
+                                        <div class="sim-img">
+                                            <img class="sec-img img-fluid" src="/@item.product_name" alt="">
+                                        </div>
+                                        <div class="sim-heading">
+                                            <p><a href="/Home/ProductDetails/@item.id"><p>@item.product_name</p></a></p>
+                                        </div>
+                                        <div class="img-content d-flex justify-content-between">
+                                            <div>
+                                                <ul class="list-unstyled list-inline price">
+                                                    <li class="list-inline-item" style="    text-decoration: none;">RS @item.product_price</li>
+                                                </ul>
+                                            </div>
+                                            <div>
+                                                <a href="#" data-toggle="tooltip" data-placement="top" title="Add to Cart"><img src="/@item.product_image" alt=""></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="category-box">
+                    <div class="sec-title">
+                        <h6>Categories</h6>
+                    </div>
+                    <!-- accordion -->
+                    <div id="accordion">
+                        @foreach (var item in ViewBag.category)
+                        {
+                            <div class="card">
+                                <div class="card-header">
+                                    <a href="/Home/SubCategories/@item.id">
+                                        @item.name
+                                    </a>
+                                </div>
+
+                            </div>
+                        }
+
+                    </div>
+                </div>
+
+                <div class="add-box">
+                    <a href="/Home/SubCategories/17"><img src="~/assets/images/sb-1.png" alt="" class="img-fluid"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+

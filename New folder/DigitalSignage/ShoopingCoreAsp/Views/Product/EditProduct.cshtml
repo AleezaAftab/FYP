@@ -1,0 +1,174 @@
+﻿
+@{
+    ViewData["Title"] = "ProductPage";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+<script>
+    function myFunction() {
+        var x = document.getElementById("mySelect").value;
+        if (x != "none") {
+            $.ajax({
+                /* the route pointing to the post function */
+                url: '/Category/AjaxList/'+x,
+                type: 'GET',
+                /* send the csrf-token and the input to the controller */
+                data: {},
+                /* remind that 'data' is the response of the AjaxController */
+                success: function (data) {
+                   // alert(data);
+                    $("#sub").html(data);
+                }
+            });
+        }
+    }
+</script>
+
+<!-- load jQuery -->
+<!-- provide the csrf token -->
+<meta name="csrf-token" content="{{ csrf_token() }}" />
+
+
+
+<div class="container-fluid">
+    <form action="/Product/UpdateProduct" method="post" enctype="multipart/form-data">
+
+        <div class="row">
+            <div class="col-md-5">
+                <div class="form-group">
+                    <label>Product Name</label>
+                    <input required type="text" name="product_name" value="@ViewBag.product.product_name" class="form-control" />
+                    <input required type="hidden" name="id" value="@ViewBag.product.id" class="form-control" />
+                </div>
+            </div>
+            <div class="col-md-5">
+                <div class="form-group">
+                    <label>Brand</label>
+                    <select required class="form-control" name="product_brand">
+                        <option>Select Brand</option>
+                        @foreach (var item in ViewBag.brands)
+                        {
+                            <option value="@item.id" selected="@(item.id==ViewBag.product.product_brand)">@item.name</option>
+                        }
+                    </select>
+                </div>
+            </div>
+
+            <div class="col-md-5">
+                <div class="form-group">
+                    <label>Price</label>
+                    <input required type="number" name="product_price" value="@ViewBag.product.product_price" class="form-control" />
+                </div>
+            </div>
+
+            <div class="col-md-5">
+                <div class="form-group">
+                    <label>Quantity</label>
+                    <input required type="number" min="0" name="product_quantity" value="@ViewBag.product.product_quantity" class="form-control" />
+                </div>
+            </div>
+
+            <div class="col-md-5">
+                <div class="form-group">
+                    <label>QR Code</label>
+                    <input required type="text" name="product_qrcode" value="@ViewBag.product.product_qrcode" class="form-control" />
+                </div>
+            </div>
+
+            <div class="col-md-5">
+                <div class="form-group">
+                    <label>Category</label>
+                    <select required class="form-control" name="cate_id" id="mySelect" onchange="myFunction()">
+                        <option value="none">Select Category</option>
+                        @foreach (var item in ViewBag.category)
+                        {
+                            <option selected="@(item.id==ViewBag.product.cate_id)" value="@item.id">@item.name</option>
+                        }
+                    </select>
+                </div>
+            </div>
+            <div class="col-md-5">
+                <div class="form-group">
+                    <label>Select Sub Category</label>
+                    <select name="sub_cate_id" required class="form-control" id="sub">
+                    </select>
+                </div>
+            </div>
+
+            <div class="col-md-2">
+                <div class="form-group">
+                    <div class="form-check form-check-inline">
+                        <input class="form-check-input" checked="@(ViewBag.product.is_hot_product==1)" name="is_hot_product" type="checkbox" id="inlineCheckbox1" value="1">
+                        <label class="form-check-label" for="inlineCheckbox1">Is Hot Product</label>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="form-group">
+                    <div class="form-check form-check-inline">
+                        <input class="form-check-input" checked="@(ViewBag.product.is_top_rate_product==1)" name="is_top_rate_product" type="checkbox" id="inlineCheckbox4" value="1">
+                        <label class="form-check-label" for="inlineCheckbox4">Is Top Rated Product</label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-2">
+                <div class="form-group">
+                    <div class="form-check form-check-inline">
+                        <input class="form-check-input" checked="@(ViewBag.product.is_best_deal==1)" name="is_best_deal" type="checkbox" id="inlineCheckbox5" value="1">
+                        <label class="form-check-label" for="inlineCheckbox5">Is Best Deals</label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-5">
+                <div class="form-group">
+                    <label>Select Product Image 1</label>
+                    <input class="form-control" name="product_image" type="file" required />
+                </div>
+            </div>
+            <div class="col-md-5">
+                <div class="form-group">
+                    <label>Select Product Image 2</label>
+                    <input class="form-control" name="product_image2" type="file" required />
+                </div>
+            </div>
+            <div class="col-md-5">
+                <div class="form-group">
+                    <label>Select Product Image 3</label>
+                    <input class="form-control" name="product_image3" type="file" required />
+                </div>
+            </div>
+
+            <div class="col-md-5">
+                <div class="form-group">
+                    <label>Select Product Image 4</label>
+                    <input class="form-control" name="product_image4" type="file" required />
+                </div>
+            </div>
+
+
+            <div class="col-md-12">
+                <div class="form-group">
+                    <label>Product Details</label>
+                    <textarea id="editor" name="product_details" rows="10">
+                    <p>This is some sample content.</p>
+                    </textarea>
+                    <script>
+                        ClassicEditor
+                            .create(document.querySelector('#editor'))
+                            .catch(error => {
+                                console.error(error);
+                            });
+                    </script>
+
+                </div>
+            </div>
+            <div class="col-md-12" style="padding: 10px;text-align: center;">
+                <input type="submit" class="btn btn-primary" />
+            </div>
+        </div>
+    </form>
+</div>
+

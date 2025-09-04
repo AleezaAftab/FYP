@@ -1,0 +1,52 @@
+﻿
+@{
+    ViewData["Title"] = "SubCategory";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="container-fluid">
+    <div class="row" style="    text-align: right;
+    display: block;">
+        <a href="/Category/allSubCategories" class="btn btn-info"> SubCategory List </a>
+    </div>
+    <form asp-action="addSubCategory" method="post" enctype="multipart/form-data">
+        <div class="row">
+
+            <div class="col-md-5">
+                <div class="form-group">
+                    <label>Select Category Category </label>
+                    <select class="form-control" name="category_id" >
+                        <option value="none">Select Category</option>
+                        @foreach (var item in ViewBag.category)
+                        {
+                            <option value="@item.id">@item.name</option>
+                        }
+                    </select>
+                </div>
+            </div>
+            <div class="col-md-5" id="sub">
+
+            </div>
+            <div class="col-md-5">
+                <div class="form-group">
+                    <label>Sub Category Name</label>
+                    <input type="text" name="name" required class="form-control" />
+                </div>
+            </div>
+
+            <div class="col-md-5">
+                <div class="form-group">
+                    <label>Select Product Image</label>
+                    <input class="form-control" type="file" required name="file" />
+                </div>
+            </div>
+        </div>
+        <div class="col-md-12" style=" padding: 10px;
+        text-align: center;">
+            <input type="submit" class="btn btn-primary" />
+        </div>
+    </form>
+
+</div>
+

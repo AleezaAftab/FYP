@@ -1,0 +1,16 @@
+﻿
+@{
+    Layout = null;
+}
+    
+        <div class="form-group">
+            <label>Select Sub Category </label>
+            <select class="form-control" name="">
+                <option value="none">Select Sub Category</option>
+                @foreach (var item in ViewBag.subcategory)
+                {
+                    <option value="@item.id">@item.name</option>
+                }
+                
+            </select>
+        </div>
